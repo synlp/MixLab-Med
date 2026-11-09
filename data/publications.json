@@ -445,11 +445,11 @@
     "id": "ica-rag",
     "year": 2025,
     "title": "ICA-RAG: Information Completeness Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis",
-    "url": "https://arxiv.org/abs/2502.14614",
+    "url": "https://doi.org/10.1109/BIBM66473.2025.11357045",
     "categories": [
       "models"
     ],
-    "status": "preprint",
+    "status": "published",
     "display_name": "ICA-RAG",
     "summary": "ICA-RAG estimates information completeness in medical records to decide when retrieval is needed, then filters retrieved knowledge to support adaptive retrieval-augmented generation for disease diagnosis research.",
     "tags": [
@@ -458,7 +458,7 @@
       "Retrieval-augmented generation"
     ],
     "authors": "Jiawei He, Mingyi Jia, Zhihao Jia, Junwen Duan, Yan Song, Jianxin Wang",
-    "venue": "arXiv 2502.14614"
+    "venue": "IEEE BIBM 2025"
   },
   {
     "id": "chimed2",
@@ -482,13 +482,13 @@
   },
   {
     "id": "ct-vqa",
-    "year": 2025,
-    "title": "Computed Tomography Visual Question Answering with Cross-modal Feature Graphing",
+    "year": 2026,
+    "title": "Cross-modal Feature Graph Modeling for Computed Tomography Visual Question Answering",
     "url": "https://arxiv.org/abs/2507.04333",
     "categories": [
       "vision"
     ],
-    "status": "preprint",
+    "status": "accepted",
     "display_name": "CT Feature Graphing",
     "summary": "This approach represents CT slices and question tokens as a cross-modal graph, combining information about slice continuity and question content to generate answers to questions about volumetric images.",
     "tags": [
@@ -497,7 +497,7 @@
       "Graph representations"
     ],
     "authors": "Yuanhe Tian, Chen Su, Junwen Duan, Yan Song",
-    "venue": "arXiv 2507.04333",
+    "venue": "CHIP 2026",
     "code": "https://github.com/synlp/A-GCN-CTVQA",
     "resource_kind": "code"
   },
