@@ -1,0 +1,668 @@
+[
+  {
+    "id": "amed",
+    "year": 2018,
+    "title": "Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions",
+    "url": "https://aclanthology.org/L18-1464/",
+    "categories": [
+      "data",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "AMed",
+    "summary": "AMed provides a Chinese medical conversation corpus with annotations of conversational structures and actions, supporting research into how patients and clinicians organize information during pediatric consultations.",
+    "tags": [
+      "Medical dialogue",
+      "Conversation analysis",
+      "Annotated corpora"
+    ],
+    "authors": "Nan Wang, Yan Song, Fei Xia",
+    "venue": "LREC 2018"
+  },
+  {
+    "id": "costa",
+    "year": 2018,
+    "title": "Coding Structures and Actions with the COSTA Scheme in Medical Conversations",
+    "url": "https://aclanthology.org/W18-2309/",
+    "categories": [
+      "data",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "COSTA",
+    "summary": "COSTA defines a layered scheme for coding structures and actions in medical conversations, providing a framework for examining the organization of naturally occurring pediatric consultations in Chinese.",
+    "tags": [
+      "Dialogue annotation",
+      "Conversation analysis"
+    ],
+    "authors": "Nan Wang, Yan Song, Fei Xia",
+    "venue": "BioNLP 2018"
+  },
+  {
+    "id": "disease-matching",
+    "year": 2018,
+    "title": "Domain Adaptation for Disease Phrase Matching with Adversarial Networks",
+    "url": "https://aclanthology.org/W18-2315/",
+    "categories": [
+      "language"
+    ],
+    "status": "published",
+    "display_name": "Disease Phrase Matching",
+    "summary": "This approach uses adversarial domain adaptation to match disease phrases with equivalent meanings, studying how information can transfer between medical subdomains when annotated training examples are limited.",
+    "tags": [
+      "Entity matching",
+      "Domain adaptation"
+    ],
+    "authors": "Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song",
+    "venue": "BioNLP 2018"
+  },
+  {
+    "id": "chimed",
+    "year": 2019,
+    "title": "ChiMed: A Chinese Medical Corpus for Question Answering",
+    "url": "https://aclanthology.org/W19-5027/",
+    "categories": [
+      "data"
+    ],
+    "status": "published",
+    "display_name": "ChiMed",
+    "summary": "ChiMed organizes Chinese medical questions and physician answers into a research corpus, with answer relevance and adoption prediction tasks for studying medical question answering and response selection.",
+    "tags": [
+      "Medical question answering",
+      "Answer selection",
+      "Medical corpora"
+    ],
+    "authors": "Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song",
+    "venue": "BioNLP 2019",
+    "code": "https://github.com/yuanheTian/ChiMed",
+    "resource_kind": "dataset"
+  },
+  {
+    "id": "wtmed",
+    "year": 2019,
+    "title": "WTMED at MEDIQA 2019: A Hybrid Approach to Biomedical Natural Language Inference",
+    "url": "https://aclanthology.org/W19-5044/",
+    "categories": [
+      "language"
+    ],
+    "status": "published",
+    "display_name": "WTMED",
+    "summary": "WTMED combines pretrained language representations with syntactic and biomedical features, using model ensembles and conflict resolution to determine inference relationships between pairs of biomedical sentences in benchmark tasks.",
+    "tags": [
+      "Biomedical inference",
+      "Text understanding"
+    ],
+    "authors": "Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, Fei Xia",
+    "venue": "BioNLP / MEDIQA 2019",
+    "code": "https://github.com/ZhaofengWu/MEDIQA_WTMED",
+    "resource_kind": "code"
+  },
+  {
+    "id": "knowledge-coref",
+    "year": 2019,
+    "title": "Knowledge-aware Pronoun Coreference Resolution",
+    "url": "https://aclanthology.org/P19-1083/",
+    "categories": [
+      "language"
+    ],
+    "status": "published",
+    "display_name": "Knowledge-Aware Coreference",
+    "summary": "A knowledge attention mechanism selects external information for pronoun coreference resolution, studying how knowledge supports linking pronouns to their referents in general text and medical narrative benchmarks.",
+    "tags": [
+      "Coreference resolution",
+      "Knowledge attention"
+    ],
+    "authors": "Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu",
+    "venue": "ACL 2019",
+    "code": "https://github.com/HKUST-KnowComp/Pronoun-Coref-KG",
+    "resource_kind": "code"
+  },
+  {
+    "id": "medical-conversation-challenges",
+    "year": 2020,
+    "title": "Studying Challenges in Medical Conversation with Structured Annotation",
+    "url": "https://aclanthology.org/2020.nlpmc-1.3/",
+    "categories": [
+      "language"
+    ],
+    "status": "published",
+    "display_name": "Medical Conversation Analysis",
+    "summary": "Structured annotations of Chinese pediatric consultations support an analysis of conversation openings, communication problems, and closing sequences, examining how conversational organization shapes the exchange of medical information.",
+    "tags": [
+      "Conversation analysis",
+      "Medical dialogue"
+    ],
+    "authors": "Nan Wang, Yan Song, Fei Xia",
+    "venue": "NLPMC 2020"
+  },
+  {
+    "id": "medical-summarization",
+    "year": 2020,
+    "title": "Summarizing Medical Conversations via Identifying Important Utterances",
+    "url": "https://aclanthology.org/2020.coling-main.63/",
+    "categories": [
+      "language",
+      "data"
+    ],
+    "status": "published",
+    "display_name": "Medical Dialogue Summarization",
+    "summary": "A hierarchical approach identifies important utterances in medical conversations and uses their representations to organize summaries around patient problems and physician responses, connecting dialogue structure with summary content.",
+    "tags": [
+      "Dialogue summarization",
+      "Utterance selection"
+    ],
+    "authors": "Yan Song, Yuanhe Tian, Nan Wang, Fei Xia",
+    "venue": "COLING 2020",
+    "code": "https://github.com/synlp/HET-MC",
+    "resource_kind": "code"
+  },
+  {
+    "id": "biokmner",
+    "year": 2020,
+    "title": "Improving biomedical named entity recognition with syntactic information",
+    "url": "https://doi.org/10.1186/s12859-020-03834-6",
+    "categories": [
+      "language"
+    ],
+    "status": "published",
+    "display_name": "BioKMNER",
+    "summary": "BioKMNER uses key-value memory networks to select syntactic information for biomedical named entity recognition, combining contextual features with linguistic structure to identify diseases, chemicals, genes, and species.",
+    "tags": [
+      "Biomedical entities",
+      "Information extraction",
+      "Memory networks"
+    ],
+    "authors": "Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, Kenli Li",
+    "venue": "BMC Bioinformatics 21, 539",
+    "code": "https://github.com/synlp/BioKMNER",
+    "resource_kind": "code"
+  },
+  {
+    "id": "r2gen",
+    "year": 2020,
+    "title": "Generating Radiology Reports via Memory-driven Transformer",
+    "url": "https://aclanthology.org/2020.emnlp-main.112/",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "R2Gen",
+    "summary": "R2Gen combines a relational memory with memory-driven conditional layer normalization, incorporating information accumulated during generation into a Transformer decoder to produce extended radiology reports from chest images.",
+    "tags": [
+      "Report generation",
+      "Chest radiography",
+      "Memory networks"
+    ],
+    "authors": "Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan",
+    "venue": "EMNLP 2020",
+    "code": "https://github.com/cuhksz-nlp/R2Gen",
+    "short_venue": "EMNLP 2020",
+    "feature_area": "Radiology report generation",
+    "resource_kind": "code"
+  },
+  {
+    "id": "acemr",
+    "year": 2021,
+    "title": "Exploring Word Segmentation and Medical Concept Recognition for Chinese Medical Texts",
+    "url": "https://aclanthology.org/2021.bionlp-1.23/",
+    "categories": [
+      "data",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "ACEMR",
+    "summary": "ACEMR provides Chinese electronic medical records annotated for word segmentation and medical concept recognition, supporting comparisons of language processing models on tasks requiring word boundaries and domain terminology.",
+    "tags": [
+      "Electronic medical records",
+      "Medical terminology",
+      "Annotated corpora"
+    ],
+    "authors": "Yang Liu, Yuanhe Tian, Tsung-Hui Chang, Song Wu, Xiang Wan, Yan Song",
+    "venue": "BioNLP 2021",
+    "code": "https://github.com/cuhksz-nlp/ACEMR",
+    "resource_kind": "sample-data"
+  },
+  {
+    "id": "cmn",
+    "year": 2021,
+    "title": "Cross-modal Memory Networks for Radiology Report Generation",
+    "url": "https://aclanthology.org/2021.acl-long.459/",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "Cross-Modal Memory Networks",
+    "summary": "Shared cross-modal memory captures correspondences between visual features and report text, allowing image and language representations to interact through stored patterns during the generation of radiology reports.",
+    "tags": [
+      "Report generation",
+      "Cross-modal alignment",
+      "Memory networks"
+    ],
+    "authors": "Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan",
+    "venue": "ACL-IJCNLP 2021",
+    "code": "https://github.com/cuhksz-nlp/R2GenCMN",
+    "resource_kind": "code"
+  },
+  {
+    "id": "wgsum",
+    "year": 2021,
+    "title": "Word Graph Guided Summarization for Radiology Findings",
+    "url": "https://aclanthology.org/2021.findings-acl.441/",
+    "categories": [
+      "language",
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "WGSum",
+    "summary": "WGSum builds word graphs from important terms and their relationships in radiology findings, using graph representations to guide the generation of impression summaries that condense report content.",
+    "tags": [
+      "Report summarization",
+      "Graph representations"
+    ],
+    "authors": "Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan, Tsung-Hui Chang",
+    "venue": "Findings of ACL-IJCNLP 2021",
+    "code": "https://github.com/jinpeng01/WGSum",
+    "resource_kind": "code"
+  },
+  {
+    "id": "chimst",
+    "year": 2022,
+    "title": "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition",
+    "url": "https://aclanthology.org/2022.lrec-1.607/",
+    "categories": [
+      "data",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "ChiMST",
+    "summary": "ChiMST annotates word boundaries and fine-grained medical terms in Chinese medical question answering text, providing a shared resource for studying segmentation and terminology recognition within the same corpus.",
+    "tags": [
+      "Word segmentation",
+      "Medical terminology",
+      "Annotated corpora"
+    ],
+    "authors": "Yuanhe Tian, Han Qin, Fei Xia, Yan Song",
+    "venue": "LREC 2022",
+    "code": "https://github.com/synlp/ChiMST",
+    "short_venue": "LREC 2022",
+    "feature_area": "Medical language resources",
+    "resource_kind": "dataset"
+  },
+  {
+    "id": "r2genrl",
+    "year": 2022,
+    "title": "Reinforced Cross-modal Alignment for Radiology Report Generation",
+    "url": "https://aclanthology.org/2022.findings-acl.38/",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "R2GenRL",
+    "summary": "R2GenRL uses reinforcement learning to optimize image-text alignment within cross-modal memory, connecting report generation signals with the alignment process when learning how visual evidence corresponds to report content.",
+    "tags": [
+      "Report generation",
+      "Reinforcement learning",
+      "Cross-modal alignment"
+    ],
+    "authors": "Han Qin, Yan Song",
+    "venue": "Findings of ACL 2022",
+    "code": "https://github.com/synlp/R2GenRL",
+    "short_venue": "ACL Findings 2022",
+    "feature_area": "Cross-modal alignment",
+    "resource_kind": "code"
+  },
+  {
+    "id": "rrg-review",
+    "year": 2023,
+    "title": "A Systematic Review of Deep Learning-based Research on Radiology Report Generation",
+    "url": "https://arxiv.org/abs/2311.14199",
+    "categories": [
+      "vision"
+    ],
+    "status": "preprint",
+    "display_name": "Radiology Report Generation Review",
+    "summary": "This systematic review organizes deep learning research on radiology report generation by visual, textual, and cross-modal methods, bringing together datasets, evaluation measures, and challenges across the research area.",
+    "tags": [
+      "Research survey",
+      "Report generation",
+      "Evaluation"
+    ],
+    "authors": "Chang Liu, Yuanhe Tian, Yan Song",
+    "venue": "arXiv 2311.14199",
+    "code": "https://github.com/synlp/RRG-Review",
+    "resource_kind": "survey-resources"
+  },
+  {
+    "id": "r2llm",
+    "year": 2024,
+    "title": "Bootstrapping Large Language Models for Radiology Report Generation",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29826",
+    "categories": [
+      "models",
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "R2-LLM",
+    "summary": "R2-LLM adapts a general language model to radiology report generation through in-domain instance induction and coarse-to-fine decoding, connecting retrieved examples with successive stages of report refinement.",
+    "tags": [
+      "Report generation",
+      "Language model adaptation",
+      "Retrieval"
+    ],
+    "authors": "Chang Liu, Yuanhe Tian, Weidong Chen, Yan Song, Yongdong Zhang",
+    "venue": "AAAI 2024",
+    "code": "https://github.com/synlp/R2-LLM",
+    "short_venue": "AAAI 2024",
+    "feature_area": "LLMs for medical reporting",
+    "resource_kind": "code"
+  },
+  {
+    "id": "d2net",
+    "year": 2024,
+    "title": "Improving Radiology Report Generation with D²-Net: When Diffusion Meets Discriminator",
+    "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=8883",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "D²-Net",
+    "summary": "D²-Net combines diffusion-based generation with a discriminative mechanism for radiology reporting, examining how these complementary modeling components can guide the production of textual descriptions from medical image inputs.",
+    "tags": [
+      "Report generation",
+      "Diffusion modeling"
+    ],
+    "authors": "Yuda Jin, Weidong Chen, Yuanhe Tian, Yan Song, Chenggang Yan, Zhendong Mao",
+    "venue": "ICASSP 2024",
+    "code": "https://github.com/Yuda-Jin/D-2-Net",
+    "resource_kind": "code"
+  },
+  {
+    "id": "task-noise-diffusion",
+    "year": 2024,
+    "title": "Diffusion Networks with Task-Specific Noise Control for Radiology Report Generation",
+    "url": "https://doi.org/10.1145/3664647.3681476",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "ControlDiff",
+    "summary": "ControlDiff uses task-specific visual and textual information to construct noise for diffusion networks, studying how iterative denoising can organize global and local content when generating radiology reports.",
+    "tags": [
+      "Report generation",
+      "Diffusion modeling",
+      "Noise control"
+    ],
+    "authors": "Yuanhe Tian, Fei Xia, Yan Song",
+    "venue": "ACM Multimedia 2024"
+  },
+  {
+    "id": "chimedgpt",
+    "year": 2024,
+    "title": "ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences",
+    "url": "https://aclanthology.org/2024.acl-long.386/",
+    "categories": [
+      "models",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "ChiMed-GPT",
+    "summary": "ChiMed-GPT combines continued pretraining, supervised instruction tuning, and preference alignment for Chinese medical language modeling, with evaluations spanning information extraction, question answering, and medical dialogue generation.",
+    "tags": [
+      "Medical language models",
+      "Preference alignment",
+      "Instruction tuning"
+    ],
+    "authors": "Yuanhe Tian, Ruyi Gan, Yan Song, Jiaxing Zhang, Yongdong Zhang",
+    "venue": "ACL 2024",
+    "code": "https://github.com/synlp/ChiMed-GPT",
+    "short_venue": "ACL 2024",
+    "feature_area": "Medical foundation models",
+    "resource_kind": "code"
+  },
+  {
+    "id": "medikal",
+    "year": 2025,
+    "title": "medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs",
+    "url": "https://aclanthology.org/2025.coling-main.624/",
+    "categories": [
+      "models",
+      "language"
+    ],
+    "status": "published",
+    "display_name": "medIKAL",
+    "summary": "medIKAL combines language model reasoning with knowledge graph search over electronic medical records, using candidate disease localization and path ranking to structure information for research on diagnosis tasks.",
+    "tags": [
+      "Knowledge graphs",
+      "Electronic medical records",
+      "Medical reasoning"
+    ],
+    "authors": "Mingyi Jia, Junwen Duan, Yan Song, Jianxin Wang",
+    "venue": "COLING 2025",
+    "code": "https://github.com/CSU-NLP-Group/medIKAL",
+    "resource_kind": "code"
+  },
+  {
+    "id": "ica-rag",
+    "year": 2025,
+    "title": "ICA-RAG: Information Completeness Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis",
+    "url": "https://arxiv.org/abs/2502.14614",
+    "categories": [
+      "models"
+    ],
+    "status": "preprint",
+    "display_name": "ICA-RAG",
+    "summary": "ICA-RAG estimates information completeness in medical records to decide when retrieval is needed, then filters retrieved knowledge to support adaptive retrieval-augmented generation for disease diagnosis research.",
+    "tags": [
+      "Adaptive retrieval",
+      "Medical reasoning",
+      "Retrieval-augmented generation"
+    ],
+    "authors": "Jiawei He, Mingyi Jia, Zhihao Jia, Junwen Duan, Yan Song, Jianxin Wang",
+    "venue": "arXiv 2502.14614"
+  },
+  {
+    "id": "chimed2",
+    "year": 2025,
+    "title": "ChiMed 2.0: Advancing Chinese Medical Dataset in Facilitating Large Language Modeling",
+    "url": "https://arxiv.org/abs/2507.15275",
+    "categories": [
+      "data",
+      "models"
+    ],
+    "status": "preprint",
+    "display_name": "ChiMed 2.0",
+    "summary": "ChiMed 2.0 organizes traditional Chinese and modern medical texts into pretraining documents, supervised question-answer pairs, and preference data, supporting different stages of training Chinese medical language models.",
+    "tags": [
+      "Medical corpora",
+      "Language model training",
+      "Preference data"
+    ],
+    "authors": "Yuanhe Tian, Junjie Liu, Zhizhou Kou, Yuxiang Li, Yan Song",
+    "venue": "arXiv 2507.15275"
+  },
+  {
+    "id": "ct-vqa",
+    "year": 2025,
+    "title": "Computed Tomography Visual Question Answering with Cross-modal Feature Graphing",
+    "url": "https://arxiv.org/abs/2507.04333",
+    "categories": [
+      "vision"
+    ],
+    "status": "preprint",
+    "display_name": "CT Feature Graphing",
+    "summary": "This approach represents CT slices and question tokens as a cross-modal graph, combining information about slice continuity and question content to generate answers to questions about volumetric images.",
+    "tags": [
+      "CT imaging",
+      "Visual question answering",
+      "Graph representations"
+    ],
+    "authors": "Yuanhe Tian, Chen Su, Junwen Duan, Yan Song",
+    "venue": "arXiv 2507.04333",
+    "code": "https://github.com/synlp/A-GCN-CTVQA",
+    "resource_kind": "code"
+  },
+  {
+    "id": "ct-decomposition",
+    "year": 2026,
+    "title": "Feature Decomposition via Shared Low-Rank Matrix Recovery for CT Report Generation",
+    "url": "https://doi.org/10.1109/TMI.2025.3628159",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "CT Feature Decomposition",
+    "summary": "Shared low-rank matrix recovery separates common background information from distinct CT features, combining continuous slice encoding with visual representations to condition language models for volumetric report generation.",
+    "tags": [
+      "CT imaging",
+      "Feature decomposition",
+      "Report generation"
+    ],
+    "authors": "Yuanhe Tian, Yan Song",
+    "venue": "IEEE Transactions on Medical Imaging 45(4), 1501–1512 · online 2025",
+    "short_venue": "TMI 2026",
+    "feature_area": "CT report generation",
+    "code": "https://github.com/synlp/S-LMR-CTRG",
+    "resource_kind": "code"
+  },
+  {
+    "id": "extractive-rrg",
+    "year": 2026,
+    "title": "Extractive Radiology Reporting With Memory-Based Cross-Modal Representations",
+    "url": "https://doi.org/10.1109/TMI.2025.3636868",
+    "categories": [
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "Memory-Based Extractive Reporting",
+    "summary": "Memory-based cross-modal representations support an extractive approach to radiology reporting, selecting and organizing report content through learned image-text associations rather than relying exclusively on generating each successive token.",
+    "tags": [
+      "Extractive reporting",
+      "Cross-modal representations",
+      "Memory networks"
+    ],
+    "authors": "Yuanhe Tian, Zexuan Yan, Nenan Lyu, Yan Song",
+    "venue": "IEEE Transactions on Medical Imaging 45(4), 1686–1697 · online 2025",
+    "code": "https://github.com/synlp/Mem-ERR",
+    "resource_kind": "code"
+  },
+  {
+    "id": "lead",
+    "year": 2026,
+    "title": "LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation",
+    "url": "https://arxiv.org/abs/2602.04617",
+    "categories": [
+      "vision"
+    ],
+    "status": "preprint",
+    "display_name": "LEAD",
+    "summary": "LEAD incorporates multiple expert pathology features across decoder layers, studying how layer-wise expert alignment can connect image evidence with the text produced during radiology report generation by multimodal models.",
+    "tags": [
+      "Report generation",
+      "Expert alignment",
+      "Multimodal models"
+    ],
+    "authors": "Ruixiao Yang, Yuanhe Tian, Xu Yang, Huiqi Li, Yan Song",
+    "venue": "arXiv 2602.04617"
+  },
+  {
+    "id": "sliceworld",
+    "year": 2026,
+    "title": "SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation",
+    "url": "https://arxiv.org/abs/2605.24371",
+    "categories": [
+      "vision"
+    ],
+    "status": "accepted",
+    "display_name": "SliceWorld",
+    "summary": "SliceWorld models anatomical, lesion, and uncertainty states across CT slice sequences, connecting future feature prediction and latent interventions with language generation to study predictive and controllable CT reporting.",
+    "tags": [
+      "CT imaging",
+      "World-state modeling",
+      "Report generation"
+    ],
+    "authors": "Yuanhe Tian, Yan Song",
+    "venue": "NeurIPS 2026",
+    "conference_url": "https://neurips.cc/virtual/2026/poster/150217",
+    "code": "https://github.com/synlp/SliceWorld",
+    "resource_kind": "code"
+  },
+  {
+    "id": "wpgmoe",
+    "year": 2026,
+    "title": "WPG-MoE: Weak-Prior-Guided Dense Mixture-of-Experts for User-Level Social Media Depression Detection",
+    "url": "https://arxiv.org/abs/2607.04350",
+    "categories": [
+      "language"
+    ],
+    "status": "preprint",
+    "display_name": "WPG-MoE",
+    "summary": "WPG-MoE uses weak semantic priors to guide a dense mixture of experts, modeling differences in how social media users express evidence associated with depression risk across their posts.",
+    "tags": [
+      "Mental health research",
+      "Social media analysis",
+      "Mixture of experts"
+    ],
+    "authors": "Xian Li, Yuanhe Tian, Yang Yang, Guoqing Wang, Yan Song",
+    "venue": "arXiv 2607.04350"
+  },
+  {
+    "id": "odam",
+    "year": 2026,
+    "title": "On-demand instance-wise adaptation of large language models for radiology report generation",
+    "url": "https://www.nature.com/articles/s41598-026-59289-x",
+    "categories": [
+      "models",
+      "vision"
+    ],
+    "status": "published",
+    "display_name": "On-Demand Adaptation",
+    "summary": "On-demand instance-wise adaptation selects relevant training examples for each test image and adapts a language model at inference time, using pathology matching and contrasting instances to guide radiology reporting.",
+    "tags": [
+      "Test-time adaptation",
+      "Report generation",
+      "Instance retrieval"
+    ],
+    "authors": "Yan Song, Yuanhe Tian, Yongdong Zhang",
+    "venue": "Scientific Reports",
+    "code": "https://github.com/synlp/ODAM-RRG",
+    "resource_kind": "code"
+  },
+  {
+    "id": "recurrent-ct",
+    "year": 2025,
+    "title": "Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation",
+    "url": "https://arxiv.org/abs/2506.19665",
+    "categories": [
+      "vision"
+    ],
+    "status": "preprint",
+    "display_name": "Recurrent CT Reporting",
+    "summary": "Recurrent visual encoding tracks ordered CT slices while stereo attention combines hierarchical visual features, providing a language model with representations for generating reports from three-dimensional CT examinations.",
+    "tags": [
+      "CT imaging",
+      "Sequential encoding",
+      "Report generation"
+    ],
+    "authors": "Yuanhe Tian, Lei Mao, Yan Song",
+    "venue": "arXiv 2506.19665"
+  },
+  {
+    "id": "semdiff",
+    "year": 2024,
+    "title": "Semantic Memory Guided Diffusion Networks for Image-to-Long Text Generation",
+    "url": "https://openreview.net/forum?id=RAA0vCLMhp",
+    "categories": [
+      "vision"
+    ],
+    "status": "draft",
+    "display_name": "SeMDiff",
+    "summary": "SeMDiff predicts semantic concepts and refines their representations through conditional memory to guide diffusion-based long text generation, including experiments on describing medical images alongside general image description tasks.",
+    "tags": [
+      "Long-form generation",
+      "Diffusion modeling",
+      "Semantic memory"
+    ],
+    "authors": "",
+    "venue": "Public manuscript"
+  }
+]
