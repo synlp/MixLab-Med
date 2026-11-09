@@ -17,7 +17,8 @@
       "Annotated corpora"
     ],
     "authors": "Nan Wang, Yan Song, Fei Xia",
-    "venue": "LREC 2018"
+    "venue": "LREC 2018",
+    "area": "foundations"
   },
   {
     "id": "costa",
@@ -36,7 +37,8 @@
       "Conversation analysis"
     ],
     "authors": "Nan Wang, Yan Song, Fei Xia",
-    "venue": "BioNLP 2018"
+    "venue": "BioNLP 2018",
+    "area": "foundations"
   },
   {
     "id": "disease-matching",
@@ -54,7 +56,8 @@
       "Domain adaptation"
     ],
     "authors": "Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song",
-    "venue": "BioNLP 2018"
+    "venue": "BioNLP 2018",
+    "area": "language"
   },
   {
     "id": "chimed",
@@ -75,7 +78,8 @@
     "authors": "Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song",
     "venue": "BioNLP 2019",
     "code": "https://github.com/yuanheTian/ChiMed",
-    "resource_kind": "dataset"
+    "resource_kind": "dataset",
+    "area": "foundations"
   },
   {
     "id": "wtmed",
@@ -95,7 +99,8 @@
     "authors": "Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, Fei Xia",
     "venue": "BioNLP / MEDIQA 2019",
     "code": "https://github.com/ZhaofengWu/MEDIQA_WTMED",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language"
   },
   {
     "id": "knowledge-coref",
@@ -115,7 +120,8 @@
     "authors": "Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu",
     "venue": "ACL 2019",
     "code": "https://github.com/HKUST-KnowComp/Pronoun-Coref-KG",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language"
   },
   {
     "id": "medical-conversation-challenges",
@@ -133,7 +139,8 @@
       "Medical dialogue"
     ],
     "authors": "Nan Wang, Yan Song, Fei Xia",
-    "venue": "NLPMC 2020"
+    "venue": "NLPMC 2020",
+    "area": "language"
   },
   {
     "id": "medical-summarization",
@@ -154,7 +161,10 @@
     "authors": "Yan Song, Yuanhe Tian, Nan Wang, Fei Xia",
     "venue": "COLING 2020",
     "code": "https://github.com/synlp/HET-MC",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language",
+    "short_venue": "COLING 2020",
+    "feature_area": "Medical conversation processing"
   },
   {
     "id": "biokmner",
@@ -175,7 +185,10 @@
     "authors": "Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, Kenli Li",
     "venue": "BMC Bioinformatics 21, 539",
     "code": "https://github.com/synlp/BioKMNER",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language",
+    "short_venue": "BMC Bioinformatics 2020",
+    "feature_area": "Biomedical information extraction"
   },
   {
     "id": "r2gen",
@@ -198,7 +211,8 @@
     "code": "https://github.com/cuhksz-nlp/R2Gen",
     "short_venue": "EMNLP 2020",
     "feature_area": "Radiology report generation",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "acemr",
@@ -220,7 +234,8 @@
     "authors": "Yang Liu, Yuanhe Tian, Tsung-Hui Chang, Song Wu, Xiang Wan, Yan Song",
     "venue": "BioNLP 2021",
     "code": "https://github.com/cuhksz-nlp/ACEMR",
-    "resource_kind": "sample-data"
+    "resource_kind": "sample-data",
+    "area": "foundations"
   },
   {
     "id": "cmn",
@@ -241,7 +256,8 @@
     "authors": "Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan",
     "venue": "ACL-IJCNLP 2021",
     "code": "https://github.com/cuhksz-nlp/R2GenCMN",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "wgsum",
@@ -262,7 +278,8 @@
     "authors": "Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan, Tsung-Hui Chang",
     "venue": "Findings of ACL-IJCNLP 2021",
     "code": "https://github.com/jinpeng01/WGSum",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language"
   },
   {
     "id": "chimst",
@@ -286,7 +303,8 @@
     "code": "https://github.com/synlp/ChiMST",
     "short_venue": "LREC 2022",
     "feature_area": "Medical language resources",
-    "resource_kind": "dataset"
+    "resource_kind": "dataset",
+    "area": "foundations"
   },
   {
     "id": "r2genrl",
@@ -309,7 +327,8 @@
     "code": "https://github.com/synlp/R2GenRL",
     "short_venue": "ACL Findings 2022",
     "feature_area": "Cross-modal alignment",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "rrg-review",
@@ -330,7 +349,8 @@
     "authors": "Chang Liu, Yuanhe Tian, Yan Song",
     "venue": "arXiv 2311.14199",
     "code": "https://github.com/synlp/RRG-Review",
-    "resource_kind": "survey-resources"
+    "resource_kind": "survey-resources",
+    "area": "imaging"
   },
   {
     "id": "r2llm",
@@ -354,7 +374,8 @@
     "code": "https://github.com/synlp/R2-LLM",
     "short_venue": "AAAI 2024",
     "feature_area": "LLMs for medical reporting",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "d2net",
@@ -374,7 +395,8 @@
     "authors": "Yuda Jin, Weidong Chen, Yuanhe Tian, Yan Song, Chenggang Yan, Zhendong Mao",
     "venue": "ICASSP 2024",
     "code": "https://github.com/Yuda-Jin/D-2-Net",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "task-noise-diffusion",
@@ -393,7 +415,8 @@
       "Noise control"
     ],
     "authors": "Yuanhe Tian, Fei Xia, Yan Song",
-    "venue": "ACM Multimedia 2024"
+    "venue": "ACM Multimedia 2024",
+    "area": "imaging"
   },
   {
     "id": "chimedgpt",
@@ -417,7 +440,8 @@
     "code": "https://github.com/synlp/ChiMed-GPT",
     "short_venue": "ACL 2024",
     "feature_area": "Medical foundation models",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "foundations"
   },
   {
     "id": "medikal",
@@ -439,7 +463,8 @@
     "authors": "Mingyi Jia, Junwen Duan, Yan Song, Jianxin Wang",
     "venue": "COLING 2025",
     "code": "https://github.com/CSU-NLP-Group/medIKAL",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "language"
   },
   {
     "id": "ica-rag",
@@ -458,7 +483,8 @@
       "Retrieval-augmented generation"
     ],
     "authors": "Jiawei He, Mingyi Jia, Zhihao Jia, Junwen Duan, Yan Song, Jianxin Wang",
-    "venue": "IEEE BIBM 2025"
+    "venue": "IEEE BIBM 2025",
+    "area": "language"
   },
   {
     "id": "chimed2",
@@ -478,7 +504,8 @@
       "Preference data"
     ],
     "authors": "Yuanhe Tian, Junjie Liu, Zhizhou Kou, Yuxiang Li, Yan Song",
-    "venue": "arXiv 2507.15275"
+    "venue": "arXiv 2507.15275",
+    "area": "foundations"
   },
   {
     "id": "ct-vqa",
@@ -499,7 +526,8 @@
     "authors": "Yuanhe Tian, Chen Su, Junwen Duan, Yan Song",
     "venue": "CHIP 2026",
     "code": "https://github.com/synlp/A-GCN-CTVQA",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "ct-decomposition",
@@ -522,7 +550,8 @@
     "short_venue": "TMI 2026",
     "feature_area": "CT report generation",
     "code": "https://github.com/synlp/S-LMR-CTRG",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "extractive-rrg",
@@ -543,7 +572,8 @@
     "authors": "Yuanhe Tian, Zexuan Yan, Nenan Lyu, Yan Song",
     "venue": "IEEE Transactions on Medical Imaging 45(4), 1686–1697 · online 2025",
     "code": "https://github.com/synlp/Mem-ERR",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "lead",
@@ -562,7 +592,8 @@
       "Multimodal models"
     ],
     "authors": "Ruixiao Yang, Yuanhe Tian, Xu Yang, Huiqi Li, Yan Song",
-    "venue": "arXiv 2602.04617"
+    "venue": "arXiv 2602.04617",
+    "area": "imaging"
   },
   {
     "id": "sliceworld",
@@ -584,7 +615,8 @@
     "venue": "NeurIPS 2026",
     "conference_url": "https://neurips.cc/virtual/2026/poster/150217",
     "code": "https://github.com/synlp/SliceWorld",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "wpgmoe",
@@ -603,7 +635,8 @@
       "Mixture of experts"
     ],
     "authors": "Xian Li, Yuanhe Tian, Yang Yang, Guoqing Wang, Yan Song",
-    "venue": "arXiv 2607.04350"
+    "venue": "arXiv 2607.04350",
+    "area": "language"
   },
   {
     "id": "odam",
@@ -625,7 +658,8 @@
     "authors": "Yan Song, Yuanhe Tian, Yongdong Zhang",
     "venue": "Scientific Reports",
     "code": "https://github.com/synlp/ODAM-RRG",
-    "resource_kind": "code"
+    "resource_kind": "code",
+    "area": "imaging"
   },
   {
     "id": "recurrent-ct",
@@ -644,7 +678,8 @@
       "Report generation"
     ],
     "authors": "Yuanhe Tian, Lei Mao, Yan Song",
-    "venue": "arXiv 2506.19665"
+    "venue": "arXiv 2506.19665",
+    "area": "imaging"
   },
   {
     "id": "semdiff",
@@ -663,6 +698,7 @@
       "Semantic memory"
     ],
     "authors": "",
-    "venue": "Public manuscript"
+    "venue": "Public manuscript",
+    "area": "imaging"
   }
 ]

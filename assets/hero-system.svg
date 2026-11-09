@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="660" height="620" viewBox="0 0 660 620" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Connecting medical images, language and knowledge</title><desc id="desc">An illustrated research workflow with stacked image planes, linked evidence nodes, and a structured report.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="660" y2="620" gradientUnits="userSpaceOnUse"><stop stop-color="#183c32"/><stop offset="1" stop-color="#071c17"/></linearGradient>
-<linearGradient id="plane" x1="170" y1="135" x2="410" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#addb9b" stop-opacity=".13"/><stop offset="1" stop-color="#c7f09c" stop-opacity=".03"/></linearGradient>
-<linearGradient id="glass"><stop stop-color="#e1fcc9" stop-opacity=".14"/><stop offset="1" stop-color="#e1fcc9" stop-opacity=".03"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#a8d879" stop-opacity=".22"/><stop offset="1" stop-color="#a8d879" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#9fbdac" fill-opacity=".2"/></pattern>
+<linearGradient id="bg" x1="0" y1="0" x2="660" y2="620" gradientUnits="userSpaceOnUse"><stop stop-color="#0e2b50"/><stop offset="1" stop-color="#050f22"/></linearGradient>
+<linearGradient id="plane" x1="170" y1="135" x2="410" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#8abfff" stop-opacity=".13"/><stop offset="1" stop-color="#73adff" stop-opacity=".03"/></linearGradient>
+<linearGradient id="glass"><stop stop-color="#b2d7ff" stop-opacity=".14"/><stop offset="1" stop-color="#b2d7ff" stop-opacity=".03"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#408fff" stop-opacity=".22"/><stop offset="1" stop-color="#408fff" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#87b0de" fill-opacity=".2"/></pattern>
 <filter id="shadow"><feGaussianBlur stdDeviation="22"/></filter>
 </defs>
 <rect width="660" height="620" fill="url(#bg)"/>
 <rect width="660" height="620" fill="url(#dots)"/>
 <circle cx="285" cy="312" r="265" fill="url(#glow)"/>
 <ellipse cx="310" cy="465" rx="190" ry="28" fill="#000" opacity=".35" filter="url(#shadow)"/>
-<g stroke="#8dac92" stroke-opacity=".25"><path d="M0 497L660 243M0 553L660 299M68 620L660 390M0 435L480 620M0 350L660 604M0 267L660 521"/></g>
-<g font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#b5cdb9"><text x="32" y="37">MIX LAB / RESEARCH SYSTEMS</text><text x="32" y="587">IMAGES. LANGUAGE. KNOWLEDGE.</text><text x="535" y="587">FIG. 01</text></g>
-<g stroke="#a6cc96" stroke-width="1.15" fill="url(#plane)">
+<g stroke="#5b83b3" stroke-opacity=".25"><path d="M0 497L660 243M0 553L660 299M68 620L660 390M0 435L480 620M0 350L660 604M0 267L660 521"/></g>
+<g font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#a8c3e8"><text x="32" y="37">MIX LAB / RESEARCH SYSTEMS</text><text x="32" y="587">IMAGES. LANGUAGE. KNOWLEDGE.</text><text x="535" y="587">FIG. 01</text></g>
+<g stroke="#70a9f0" stroke-width="1.15" fill="url(#plane)">
 <path d="M112 299l181-101 189 101-181 102z"/>
 <path d="M112 283l181-101 189 101-181 102z"/>
 <path d="M112 267l181-101 189 101-181 102z"/>
@@ -23,17 +23,17 @@
 <path d="M112 219l181-101 189 101-181 102z"/>
 <path d="M112 203l181-101 189 101-181 102z"/>
 </g>
-<g fill="none" stroke="#d0f5aa" stroke-linecap="round">
+<g fill="none" stroke="#aed9ff" stroke-linecap="round">
 <path d="M293 133v63m-11-45c-22-10-48 1-65 18-19 18-25 40-10 45 16 7 49-7 68-20zm22 0c23-10 49 1 66 18 19 18 25 40 10 45-17 7-49-7-68-20z" stroke-width="1.5" opacity=".75"/>
 <path d="M293 246v47m-11-33c-22-10-48 1-65 18-19 18-25 40-10 45 16 7 49-7 68-20zm22 0c23-10 49 1 66 18 19 18 25 40 10 45-17 7-49-7-68-20z" stroke-width="1" opacity=".2"/>
 </g>
-<g fill="#cff4a7"><circle cx="242" cy="205" r="4"/><circle cx="331" cy="191" r="4"/><circle cx="313" cy="236" r="3"/></g>
-<g stroke="#bedc99" stroke-dasharray="3 5" opacity=".7"><path d="M242 205v213l153 39"/><path d="M331 191l174 89v92"/><path d="M313 236v108l84 47"/></g>
-<g transform="translate(355 356)"><rect width="251" height="163" rx="12" fill="#183b2f" stroke="#728d69"/><rect width="251" height="163" rx="12" fill="url(#glass)"/>
-<circle cx="22" cy="24" r="4" fill="#bfe98a"/><text x="36" y="28" font-family="Arial" font-size="10" letter-spacing="1.5" fill="#daebd1">STRUCTURED EVIDENCE</text><path d="M20 45h211" stroke="#78936f" stroke-opacity=".5"/>
-<g font-family="Arial" font-size="9" fill="#9fbaa3"><text x="21" y="69">VISUAL FEATURES</text><text x="21" y="101">SEMANTIC MEMORY</text><text x="21" y="133">REPORT GENERATION</text></g>
-<g fill="#b9df90"><rect x="156" y="61" width="63" height="7" rx="3.5"/><rect x="156" y="93" width="49" height="7" rx="3.5"/><rect x="156" y="125" width="57" height="7" rx="3.5"/></g></g>
-<g transform="translate(38 418)"><rect width="158" height="62" rx="9" fill="#244b3a" stroke="#728d69"/><g fill="#c6ed9b"><circle cx="25" cy="24" r="4"/><circle cx="43" cy="39" r="4"/><circle cx="61" cy="22" r="4"/></g><path d="M25 24l18 15 18-17" stroke="#c6ed9b"/><text x="79" y="28" fill="#d6e9ca" font-family="Arial" font-size="10">KNOWLEDGE</text><text x="79" y="43" fill="#97b599" font-family="Arial" font-size="9">IN CONTEXT</text></g>
-<g transform="translate(448 78)"><rect width="167" height="64" rx="9" fill="#264936" stroke="#728d69"/><g stroke="#c7eca8"><path d="M19 21h33m-33 8h26m-26 8h33"/></g><text x="69" y="28" font-family="Arial" font-size="10" fill="#d6e9ca">MEDICAL LANGUAGE</text><text x="69" y="44" font-family="Arial" font-size="9" fill="#97b599">MEANING &amp; STRUCTURE</text></g>
-<circle cx="626" cy="35" r="4" fill="#bfe98a"/>
+<g fill="#b3e0ff"><circle cx="242" cy="205" r="4"/><circle cx="331" cy="191" r="4"/><circle cx="313" cy="236" r="3"/></g>
+<g stroke="#8fc4ff" stroke-dasharray="3 5" opacity=".7"><path d="M242 205v213l153 39"/><path d="M331 191l174 89v92"/><path d="M313 236v108l84 47"/></g>
+<g transform="translate(355 356)"><rect width="251" height="163" rx="12" fill="#12345d" stroke="#477ab4"/><rect width="251" height="163" rx="12" fill="url(#glass)"/>
+<circle cx="22" cy="24" r="4" fill="#8bcaff"/><text x="36" y="28" font-family="Arial" font-size="10" letter-spacing="1.5" fill="#d1e8ff">STRUCTURED EVIDENCE</text><path d="M20 45h211" stroke="#668fbd" stroke-opacity=".5"/>
+<g font-family="Arial" font-size="9" fill="#a3bedf"><text x="21" y="69">VISUAL FEATURES</text><text x="21" y="101">SEMANTIC MEMORY</text><text x="21" y="133">REPORT GENERATION</text></g>
+<g fill="#79b5ff"><rect x="156" y="61" width="63" height="7" rx="3.5"/><rect x="156" y="93" width="49" height="7" rx="3.5"/><rect x="156" y="125" width="57" height="7" rx="3.5"/></g></g>
+<g transform="translate(38 418)"><rect width="158" height="62" rx="9" fill="#173f6d" stroke="#477ab4"/><g fill="#91c9ff"><circle cx="25" cy="24" r="4"/><circle cx="43" cy="39" r="4"/><circle cx="61" cy="22" r="4"/></g><path d="M25 24l18 15 18-17" stroke="#91c9ff"/><text x="79" y="28" fill="#cee7ff" font-family="Arial" font-size="10">KNOWLEDGE</text><text x="79" y="43" fill="#95b8df" font-family="Arial" font-size="9">IN CONTEXT</text></g>
+<g transform="translate(448 78)"><rect width="167" height="64" rx="9" fill="#163a64" stroke="#477ab4"/><g stroke="#a4cfff"><path d="M19 21h33m-33 8h26m-26 8h33"/></g><text x="69" y="28" font-family="Arial" font-size="10" fill="#cee7ff">MEDICAL LANGUAGE</text><text x="69" y="44" font-family="Arial" font-size="9" fill="#95b8df">MEANING &amp; STRUCTURE</text></g>
+<circle cx="626" cy="35" r="4" fill="#8bcaff"/>
 </svg>

@@ -4,7 +4,7 @@ The public medical research website for MIX Lab and collaborators, led by Yan So
 
 [Website](https://synlp.github.io/MixLab-Med/) · [Team GitHub](https://github.com/synlp) · [Google Scholar](https://scholar.google.com/citations?user=MsRp7g0AAAAJ&hl=en)
 
-The site presents a research summary, selected projects and a searchable collection of 32 research works. It links to 21 verified public repositories spanning implementations, datasets and literature resources. Publication, acceptance, preprint and public-manuscript statuses are distinguished.
+The site uses a dark blue visual theme and groups work into three areas: Medical Imaging, Medical Information Processing, and Medical Foundation Models & Datasets. Each area has a research summary, selected projects and its own publication list within a searchable collection of 32 research works. It links to 21 verified public repositories spanning implementations, datasets and literature resources. Publication, acceptance, preprint and public-manuscript statuses are distinguished.
 
 ## Contents
 

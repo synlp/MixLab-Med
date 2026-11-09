@@ -19,6 +19,11 @@ function filter() {
   }
   counter.textContent = `${visible} ${visible === 1 ? 'work' : 'works'}`;
   document.querySelector('#empty-state').hidden = visible > 0;
+  for (const group of document.querySelectorAll('.catalog-group')) {
+    const count = group.querySelectorAll('.paper:not([hidden])').length;
+    group.hidden = count === 0;
+    group.querySelector('.catalog-group-heading > p').textContent = `${count} ${count === 1 ? 'work' : 'works'}`;
+  }
 }
 for (const button of buttons) button.addEventListener('click', () => {
   category = button.dataset.category;
@@ -37,9 +42,9 @@ const menu = document.querySelector('.mobile-menu');
 for (const link of menu.querySelectorAll('a')) link.addEventListener('click', () => { menu.open = false; });
 filter();
 // Topic summaries link directly to individual works, including after filtering.
-for (const anchor of document.querySelectorAll('a[href^="#paper-"]')) anchor.addEventListener('click', () => {
+for (const anchor of document.querySelectorAll('a[href^="#paper-"], a[href^="#catalog-"]')) anchor.addEventListener('click', () => {
   const target = document.getElementById(anchor.hash.slice(1));
-  if (target && target.hidden) {
+  if (target && (target.hidden || anchor.hash.startsWith('#catalog-'))) {
     search.value = ''; year.value = ''; codeOnly.checked = false; category = 'all';
     for (const button of buttons) button.setAttribute('aria-pressed', String(button.dataset.category === 'all'));
     filter();
